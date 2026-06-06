@@ -316,7 +316,7 @@ if __name__ == "__main__":
     )
     
     # 產線傳入的目標圖片資料夾位址 (支援 Windows 絕對路徑)
-    target_folder = r"C:\Homework\YoloLabel_glue_clear\MCIO16i-MCIO16i\2H6113A3W13\WO-10000057032"
+    target_folder = r"C:\Homework\MCIO8i-MCIO8i_9pin\6H6112A3AG5\20260129001"
     folder = Path(target_folder)
     # 執行整個資料夾的自動化分析、排序、貼標籤與儲存
     count = 0
