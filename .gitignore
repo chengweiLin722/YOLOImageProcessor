@@ -1,0 +1,14 @@
+cropped_results/*
+!cropped_results/.gitkeep
+
+cropped_results_test/*
+!cropped_results_test/.gitkeep
+
+bug_report/*
+!bug_report/.gitkeep
+
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.rar
